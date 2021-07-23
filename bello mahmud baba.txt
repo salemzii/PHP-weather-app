@@ -1,0 +1,16 @@
+bello mahmud baba 
+*****************
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+</head>
+<body>
+
+    <p> Build Weather Analyzer With Php And OpenWeatherApi </p>
+
+    
+</body>
+</html>
