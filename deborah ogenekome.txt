@@ -1,0 +1,33 @@
+Eduotu Deborah Oghenekome
+**************************
+
+  
+  button:hover {
+    background: #7c7c7c6b;
+  }
+  
+  h1.temp {
+    margin: 0;
+    margin-bottom: 0.4em;
+  }
+  
+  .flex {
+    display: flex;
+    align-items: center;
+  }
+  
+  .description {
+    text-transform: capitalize;
+    margin-left: 8px;
+  }
+
+  .city-name {
+    color:  white;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  .temperat {
+    margin: 0.1em;
+    padding-top: 0.5em;
+    margin-top: 0.5em;
+  }
