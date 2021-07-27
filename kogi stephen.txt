@@ -1,0 +1,27 @@
+Kogi Stephen 
+**************
+
+
+  @media screen and (max-width:600px) {
+    .city-name {
+      font-size: 10px;
+      padding-right: 7px;
+    } .city {
+      font-size: 25px;
+    } .temp {
+      font-size: 20px;
+    } .description {
+      font-size: 15px;
+    } .humidity {
+      font-size: 15px;
+    } .wind {
+      font-size: 15px;
+    } .search {
+      font-size: 80%;
+      width: calc(100% - -30px);
+      padding-right: 0;
+    } button {
+      height: 32px;
+      width: 32px;
+    }
+  }
