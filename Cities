@@ -1,0 +1,13 @@
+
+<?php
+    $cities = 'Lagos';
+    $api_key = '629f28411519658fa67ff1385f2d5bac';
+   // $url = 'https://api.openweathermap.org/data/2.5/weather?q='.$cities.'&appid='.$api_key;
+    $my_url = 'https://salem.pythonanywhere.com';
+
+    $weather_data = file_get_contents($my_url);
+
+    echo "<pre>";
+    print_r($weather_data);
+
+?>
